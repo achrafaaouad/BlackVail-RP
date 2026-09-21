@@ -65,6 +65,20 @@ The project focuses on creating a serious, immersive and optimized Roleplay envi
 - 💎 Pawnshop
 - 🚘 Vehicle Sales
 
+- ### 🕴️ Gangs & Criminal Activities
+
+- 🔫 Gangs & Criminal Organizations
+- 🔥 Gang Wars
+- 🗺️ Territory Control
+- 💊 Drug Trafficking
+- 💰 Money Laundering
+- 📦 Illegal Deliveries
+- 🚗 Vehicle Theft
+- 🏦 Bank Robberies
+- 💎 Jewelry Robberies
+- 🏚️ House Robberies
+- 🤝 Gang Alliances
+
 ### 📱 Player Systems
 
 - 👤 Multicharacter
@@ -204,20 +218,14 @@ The development process focuses on:
 
 [EMS](https://r2.fivemanage.com/VwR57vtp3uPgyVVaiFuae/918bad3f3f99624fdee84705b70524bd.jpg)
 
+### 🕴️ Gangs
+
+[Gang System](https://r2.fivemanage.com/VwR57vtp3uPgyVVaiFuae/3f1c1e9c63af422bacf7f1d15ce79276.jpg)
 
 ---
 
-## 🔐 Third-Party Resources
 
-BlackVail RP uses various third-party resources.
 
-All third-party scripts, vehicles, maps, MLOs, interfaces, frameworks and other assets remain the property of their respective authors.
-
-This project does **not** claim ownership of third-party content.
-
-Users should respect the original licenses and redistribution policies of every resource used.
-
----
 
 ## 🚀 Project Status
 
