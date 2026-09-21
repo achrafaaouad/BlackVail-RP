@@ -260,10 +260,8 @@ Debugging
 
 | PlatformLink |                      |
 | ------------ | -------------------- |
-| 💻 GitHub    | `YOUR_GITHUB_URL`    |
-| 📺 YouTube   | `YOUR_YOUTUBE_URL`   |
-| 🎵 TikTok    | `YOUR_TIKTOK_URL`    |
-| 📸 Instagram | `YOUR_INSTAGRAM_URL` |
+| 💻 GitHub    | `https://github.com/achrafaaouad`    |
+| 📸 Instagram | `https://www.instagram.com/__achraf_444__/` |
 
 ---
 
