@@ -194,19 +194,16 @@ The development process focuses on:
 
 ### 🏙️ Server
 
-[BlackVail RP](https://chatgpt.com/c/screenshots/server.png)
+[BlackVail RP](https://r2.fivemanage.com/VwR57vtp3uPgyVVaiFuae/logo.png)
 
 ### 🚔 Police
 
-[Police Department](https://chatgpt.com/c/screenshots/police.png)
+[Police Department](https://r2.fivemanage.com/VwR57vtp3uPgyVVaiFuae/fb06098451cc5f3b5c70f8f13dde1679.jpg)
 
 ### 🏥 EMS
 
-[EMS](https://chatgpt.com/c/screenshots/ems.png)
+[EMS](https://r2.fivemanage.com/VwR57vtp3uPgyVVaiFuae/918bad3f3f99624fdee84705b70524bd.jpg)
 
-### 🖥️ UI / NUI
-
-[BlackVail UI](https://chatgpt.com/c/screenshots/ui.png)
 
 ---
 
